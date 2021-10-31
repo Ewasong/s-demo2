@@ -1,2 +1,5 @@
-package top.sorie.proxy.jdk;public class HelloService {
+package top.sorie.proxy.jdk;
+
+public interface HelloService {
+    public void hello(String name);
 }

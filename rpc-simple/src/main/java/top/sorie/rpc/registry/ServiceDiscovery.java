@@ -1,2 +1,8 @@
-package top.sorie.rpc.registry;public interface ServiceDiscovery {
+package top.sorie.rpc.registry;
+
+import top.sorie.rpc.spi.SPI;
+
+@SPI
+public interface ServiceDiscovery {
+
 }

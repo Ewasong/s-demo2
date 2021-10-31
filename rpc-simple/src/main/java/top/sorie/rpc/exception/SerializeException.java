@@ -1,4 +1,4 @@
-package github.javaguide.exception;
+package top.sorie.rpc.exception;
 
 /**
  * @author shuang.kou

@@ -1,4 +1,4 @@
-package github.javaguide.extension;
+package top.sorie.rpc.spi;
 
 public class Holder<T> {
 

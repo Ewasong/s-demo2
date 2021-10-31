@@ -1,4 +1,4 @@
-package github.javaguide.enums;
+package top.sorie.rpc.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

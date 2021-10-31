@@ -1,6 +1,6 @@
-package github.javaguide.exception;
+package top.sorie.rpc.exception;
 
-import github.javaguide.enums.RpcErrorMessageEnum;
+import top.sorie.rpc.enums.RpcErrorMessageEnum;
 
 /**
  * @author shuang.kou

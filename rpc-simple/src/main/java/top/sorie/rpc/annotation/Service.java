@@ -1,4 +1,4 @@
-package top.sorie.rpc.registry.annotation;
+package top.sorie.rpc.annotation;
 
 
 import java.lang.annotation.*;
